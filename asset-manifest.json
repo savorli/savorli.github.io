@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/savorli/dansk/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/savorli/dansk/static/js/main.e4eaf7eb.chunk.js",
+    "main.js.map": "/savorli/dansk/static/js/main.e4eaf7eb.chunk.js.map",
+    "runtime-main.js": "/savorli/dansk/static/js/runtime-main.16add01c.js",
+    "runtime-main.js.map": "/savorli/dansk/static/js/runtime-main.16add01c.js.map",
+    "static/js/2.1f442ec5.chunk.js": "/savorli/dansk/static/js/2.1f442ec5.chunk.js",
+    "static/js/2.1f442ec5.chunk.js.map": "/savorli/dansk/static/js/2.1f442ec5.chunk.js.map",
+    "static/js/3.4a92a803.chunk.js": "/savorli/dansk/static/js/3.4a92a803.chunk.js",
+    "static/js/3.4a92a803.chunk.js.map": "/savorli/dansk/static/js/3.4a92a803.chunk.js.map",
+    "index.html": "/savorli/dansk/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/savorli/dansk/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1f442ec5.chunk.js.LICENSE.txt": "/savorli/dansk/static/js/2.1f442ec5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16add01c.js",
+    "static/js/2.1f442ec5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e4eaf7eb.chunk.js"
+  ]
+}
