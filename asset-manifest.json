@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dansk/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dansk/static/js/main.e4eaf7eb.chunk.js",
-    "main.js.map": "/dansk/static/js/main.e4eaf7eb.chunk.js.map",
-    "runtime-main.js": "/dansk/static/js/runtime-main.e61b93e4.js",
-    "runtime-main.js.map": "/dansk/static/js/runtime-main.e61b93e4.js.map",
+    "main.css": "/dansk/static/css/main.afd7172b.chunk.css",
+    "main.js": "/dansk/static/js/main.88ebd747.chunk.js",
+    "main.js.map": "/dansk/static/js/main.88ebd747.chunk.js.map",
+    "runtime-main.js": "/dansk/static/js/runtime-main.e57e0429.js",
+    "runtime-main.js.map": "/dansk/static/js/runtime-main.e57e0429.js.map",
     "static/js/2.1f442ec5.chunk.js": "/dansk/static/js/2.1f442ec5.chunk.js",
     "static/js/2.1f442ec5.chunk.js.map": "/dansk/static/js/2.1f442ec5.chunk.js.map",
-    "static/js/3.4a92a803.chunk.js": "/dansk/static/js/3.4a92a803.chunk.js",
-    "static/js/3.4a92a803.chunk.js.map": "/dansk/static/js/3.4a92a803.chunk.js.map",
+    "static/js/3.270adf84.chunk.js": "/dansk/static/js/3.270adf84.chunk.js",
+    "static/js/3.270adf84.chunk.js.map": "/dansk/static/js/3.270adf84.chunk.js.map",
     "index.html": "/dansk/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dansk/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/dansk/static/css/main.afd7172b.chunk.css.map",
     "static/js/2.1f442ec5.chunk.js.LICENSE.txt": "/dansk/static/js/2.1f442ec5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e61b93e4.js",
+    "static/js/runtime-main.e57e0429.js",
     "static/js/2.1f442ec5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e4eaf7eb.chunk.js"
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.88ebd747.chunk.js"
   ]
 }
