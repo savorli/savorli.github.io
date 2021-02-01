@@ -1,13 +1,32 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import {App} from './App';
+import {Basic} from './pages/basic';
+import {Background} from './pages/background';
 import reportWebVitals from './reportWebVitals';
 import {Footer} from "./Footer";
 
 ReactDOM.render(
     <React.StrictMode>
-      <App/>
+      <main className="flex-shrink-0">
+        <div className="container-xl">
+          <h3 className="mt-5">Personlig læring danske noter</h3>
+
+          <ul className="nav nav-tabs" id="navMainTab" role="tablist">
+            <li className="nav-item">
+              <a className="nav-link active" data-bs-toggle="tab" href="#basic">Grundlæggende (Basics)</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" data-bs-toggle="tab" href="#background">Baggrund (Simple conversations)</a>
+            </li>
+
+          </ul>
+          <div id="navMainTabContent" className="tab-content">
+            <Basic/>
+            <Background/>
+          </div>
+        </div>
+      </main>
       <Footer/>
     </React.StrictMode>,
     document.getElementById('root')
