@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import {Basic} from './pages/basic';
 import {Background} from './pages/background';
+import {Words} from './pages/words';
 import reportWebVitals from './reportWebVitals';
 import {Footer} from "./Footer";
 
@@ -19,11 +20,15 @@ ReactDOM.render(
             <li className="nav-item">
               <a className="nav-link" data-bs-toggle="tab" href="#background">Baggrund (Simple conversations)</a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link" data-bs-toggle="tab" href="#words">General Conversation words</a>
+            </li>
 
           </ul>
           <div id="navMainTabContent" className="tab-content">
             <Basic/>
             <Background/>
+            <Words/>
           </div>
         </div>
       </main>
